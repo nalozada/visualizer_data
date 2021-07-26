@@ -1,4 +1,4 @@
-data = {"nodes": [{"name": "Toyota", "n": 1, "grp": 1, "id": "Toyota"},
+{"nodes": [{"name": "Toyota", "n": 1, "grp": 1, "id": "Toyota"},
                   {"name": "SpaceX", "n": 1, "grp": 1, "id": "SpaceX"},
                   {"name": "Tesla", "n": 1, "grp": 1, "id": "Tesla"},
                   {"name": "Ford", "n": 1, "grp": 1, "id": "Ford"},
@@ -124,4 +124,4 @@ data = {"nodes": [{"name": "Toyota", "n": 1, "grp": 1, "id": "Toyota"},
                   {"source": "Chipotle", "target": "Franchise Owners", "value": 1},
                   {"source": "Chipotle", "target": "Chefs", "value": 1},
                   {"source": "Chipotle", "target": "Food", "value": 1}], "attributes": {}
-        }
+}
