@@ -7,7 +7,7 @@
            {"name": "Netflix", "n": 1, "grp": 1, "id": "Netflix"},
            {"name": "Burger King", "n": 1, "grp": 1, "id": "Burger King"},
            {"name": "McDonald's", "n": 1, "grp": 1, "id": "McDonald's"},
-           {"name": "Chipotle", "n": 1, "grp": 1, "id": "Chipotle"},
+           {"name": "Chipotle", "n": 10, "grp": 1, "id": "Chipotle"},
            {"name": "CEO", "n": 1, "grp": 2, "id": "CEO"},
            {"name": "CFO", "n": 1, "grp": 2, "id": "CFO"},
            {"name": "Board of Directors", "n": 1, "grp": 2, "id": "Board of Directors"},
